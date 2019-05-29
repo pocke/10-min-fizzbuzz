@@ -23,3 +23,9 @@ Files
 
 * Ruby 2.7+
   * Pattern Matching
+
+あると便利なもの
+---
+
+* RubyVM::AST::Nodeをさくっと表示するもの
+  * https://pocke.hatenablog.com/entry/2019/05/28/012227
